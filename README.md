@@ -10,7 +10,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I’m currently working on Financial University in the Department of Applied Mathematics and Informatics
+  I’m currently studting in Financial University in the Department of Applied Mathematics and Informatics
   📬 How to reach me: <a href="mailto:ggavriloff@bk.ru">ggavriloff@bk.ru</a>
 </p>
 
