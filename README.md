@@ -65,3 +65,6 @@
   <a href="https://t.me/adam_s_head" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/Billy-Nogami" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<h2 align="left">Resume</h2>
+<a href="https://docs.google.com/document/d/1DHFg7A88wrPjn_RdOqrKsdJJ7K1QCK7JchfQFyhHT28/edit?usp=sharing"></a>
