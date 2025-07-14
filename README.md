@@ -14,7 +14,6 @@
   📬 How to reach me: <a href="mailto:ggavriloff@bk.ru">ggavriloff@bk.ru</a>
 </p>
 <a href="https://docs.google.com/document/d/1DHFg7A88wrPjn_RdOqrKsdJJ7K1QCK7JchfQFyhHT28/edit?usp=sharing" target="_blank">Посмотреть резюме</a>
----
 
 <h2 align="left">Tech Stack</h2>
 
