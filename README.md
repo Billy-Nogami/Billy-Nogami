@@ -54,7 +54,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billy-Nogami&layout=compact&langs_count=10&hide=cmake&theme=transparente" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Billy-Nogami&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ---
