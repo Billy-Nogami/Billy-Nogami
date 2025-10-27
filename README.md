@@ -41,7 +41,7 @@
   <img src="[https://img.shields.io/badge/Office365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white]"/>
   
   
-  - Core: Python(FastApi)
+  - Core: Go, Python(FastApi)
   - Tools: PostgreSQL, Celery, Redis, Docker<br>
   - Auth: JWT, OAuth2<br>
   - Testing: Postman
