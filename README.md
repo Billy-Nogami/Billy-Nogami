@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Gavrilov Georgiy</h1>
 
 <p align="left">
-  🚀 Python backend developer <br>
+  🚀Go backend developer <br>
   📍 Based in Moscow
 </p>
 
@@ -10,7 +10,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I’m currently studting in Financial University in the Department of Applied Mathematics and Informatics
+  I’m currently studying in Financial University in the Department of Applied Mathematics and Informatics
   📬 How to reach me: <a href="mailto:ggavriloff@bk.ru">ggavriloff@bk.ru</a>
 </p>
 <a href="https://docs.google.com/document/d/1DHFg7A88wrPjn_RdOqrKsdJJ7K1QCK7JchfQFyhHT28/edit?usp=sharing" target="_blank">Посмотреть резюме</a>
